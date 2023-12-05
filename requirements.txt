@@ -1,0 +1,8 @@
+requests
+wget
+shutils
+python-vlc
+shutils
+xlsxwriter
+openpyxl
+pyodbc
